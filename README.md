@@ -1,7 +1,7 @@
 # -x-Skip to content
-Hisham-Muhammed
+Alexa bot
 /
-Sophia
+alexa
 Public
 Code
 Issues
@@ -12,9 +12,8 @@ Projects
 Wiki
 Security
 Insights
-Sophia/plugins/conventer.js
-@Hisham-Muhammed
-Hisham-Muhammed 👑Sophia 2.1.0 is here 👑
+alexa/plugins/conventer.js
+@alexa 👑alexa 2.1.0 is here 👑
  1 contributor
 196 lines (183 sloc)  9.37 KB
 /*Codded by @phaticusthiccy
